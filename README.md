@@ -24,4 +24,5 @@ acceleration就是加速计返回数据。
 具体可见资料[文章](http://nshipster.com/cmdevicemotion/)
 
 相关资料：
-[](https://stackoverflow.com/questions/150446/how-do-i-detect-when-someone-shakes-an-iphone)
+[资料1](https://stackoverflow.com/questions/150446/how-do-i-detect-when-someone-shakes-an-iphone)
+[资料2](http://blog.csdn.net/wanjf_912/article/details/9305357)
